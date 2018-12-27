@@ -1,0 +1,3 @@
+[submodule "exercism"]
+	path = exercism
+	url = git@github.com:Vaidic/exercism-io-solutions.git
