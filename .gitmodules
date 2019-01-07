@@ -1,3 +1,6 @@
 [submodule "exercism"]
 	path = exercism
 	url = git@github.com:Vaidic/exercism-io-solutions.git
+[submodule "design-patterns"]
+	path = design-patterns
+	url = git@github.com:Vaidic/design-patterns.git
